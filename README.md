@@ -1,4 +1,4 @@
-# flutter_theme
+# Flutter Firebase Chat , Authentication & Social Media
 
 A new Flutter application.
 
